@@ -1,5 +1,5 @@
 # Brick-Breaker
-This game is developed using Java programming language. And I have used Swing and awt packages for GUI. 
+This game is developed using Java programming language. Swing and awt packages have been used for GUI. 
 
 In this game there are totally 21 Bricks , a Ball and a Paddle. The Left and Right arrow keys are used to move the paddle.
 If the ball hits the paddle ,It will reflects to the opposite direction.
